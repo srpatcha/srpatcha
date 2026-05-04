@@ -1,0 +1,48 @@
+name: Validate Profile README
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    name: Validate README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check markdown
+        uses: DavidAnson/markdownlint-cli2-action@v19
+        with:
+          globs: "README.md"
+          config: |
+            {
+              "MD013": false,
+              "MD033": false,
+              "MD041": false,
+              "MD045": false,
+              "MD034": false
+            }
+        continue-on-error: true
+
+      - name: Check README size
+        run: |
+          SIZE=$(wc -c < README.md)
+          echo "README.md size: $SIZE bytes"
+          if [ "$SIZE" -gt 50000 ]; then
+            echo "::warning::README.md is over 50KB - GitHub may truncate it"
+          fi
+
+      - name: Verify images load
+        run: |
+          echo "Checking badge/image URLs..."
+          grep -oP 'https://[^)"]+' README.md | head -20 | while read url; do
+            STATUS=$(curl -s -o /dev/null -w '%{http_code}' --max-time 10 "$url" 2>/dev/null || echo "ERR")
+            if [ "$STATUS" = "200" ] || [ "$STATUS" = "301" ] || [ "$STATUS" = "302" ]; then
+              echo "  OK ($STATUS): $url"
+            else
+              echo "  WARN ($STATUS): $url"
+            fi
+          done
+        continue-on-error: true
