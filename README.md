@@ -21,7 +21,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srpatcha&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0f0f1a&title_color=06b6d4&text_color=e2e8f0&langs_count=10&size_weight=0.5&count_weight=0.5" width="290"/>
 
-## \u26a1 About Me
+##  About Me
 
 I'm a **Senior Embedded Systems Engineer** with **12+ years** building everything from bare-metal firmware to full operating systems across **aerospace**, **networking**, **automotive**, and **consumer electronics**.
 
