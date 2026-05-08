@@ -25,23 +25,23 @@
 
 I'm a **Senior Embedded Systems Engineer** with **12+ years** building everything from bare-metal firmware to full operating systems across **aerospace**, **networking**, **automotive**, and **consumer electronics**.
 
-I founded [**embeddedos-org**](https://github.com/embeddedos-org) to build **EoS** \u2014 a complete embedded operating system platform from scratch.
+I founded [**embeddedos-org**](https://github.com/embeddedos-org) to build **EoS** — a complete embedded operating system platform from scratch.
 
-**\ud83d\udcbc Career Highlights:**
-- \ud83d\udd35 **Cisco Systems** \u2014 Senior Embedded Lead (Networking platforms, BSP, secure boot)
-- \ud83d\udfe2 **Google** \u2014 Senior Embedded Engineer (Linux/Android, GPU pipelines, automotive)
-- \u2708\ufe0f **Airbus** \u2014 Aerospace Engineer (DO-178 avionics, A320/A380 simulation)
-- \ud83d\udee1\ufe0f **DRDO** \u2014 Embedded Engineer (ARM firmware, bootloaders)
+**💼 Career Highlights:**
+- 🔵 **Cisco Systems** — Senior Embedded Lead (Networking platforms, BSP, secure boot)
+- 🟢 **Google** — Senior Embedded Engineer (Linux/Android, GPU pipelines, automotive)
+- ✈️ **Airbus** — Aerospace Engineer (DO-178 avionics, A320/A380 simulation)
+- 🛡️ **DRDO** — Embedded Engineer (ARM firmware, bootloaders)
 
-**\ud83c\udf93 Education:**
-- M.S. Information Technology Management \u2014 Campbellsville University
-- B.E. Electronics & Communication Engineering \u2014 JNTU
+**🎓 Education:**
+- M.S. Information Technology Management — Campbellsville University
+- B.E. Electronics & Communication Engineering — JNTU
 
 <br clear="right"/>
 
 ---
 
-## \ud83c\udfd7\ufe0f EoS \u2014 Embedded Operating System Platform
+## 🏗️ EoS — Embedded Operating System Platform
 
 > *A complete operating system ecosystem built from the ground up*
 
@@ -49,30 +49,30 @@ I founded [**embeddedos-org**](https://github.com/embeddedos-org) to build **EoS
 
 | Project | Description | Tech |
 |:-------:|:------------|:----:|
-| [**EoS**](https://github.com/embeddedos-org/eos) | \ud83e\uddec Core Embedded Operating System | ![C](https://img.shields.io/badge/-C-6366f1?style=flat-square&logo=c&logoColor=white) |
-| [**eBoot**](https://github.com/embeddedos-org/eBoot) | \ud83d\udd11 Universal Bootloader for Any Hardware | ![C](https://img.shields.io/badge/-C-6366f1?style=flat-square&logo=c&logoColor=white) |
-| [**eAI**](https://github.com/embeddedos-org/eAI) | \ud83e\udde0 AI Layer (eBot) Integration for EoS | ![C](https://img.shields.io/badge/-C-6366f1?style=flat-square&logo=c&logoColor=white) |
-| [**eIPC**](https://github.com/embeddedos-org/eIPC) | \ud83d\udd12 Secure Inter-Process Communication | ![Go](https://img.shields.io/badge/-Go-06b6d4?style=flat-square&logo=go&logoColor=white) |
-| [**eNI**](https://github.com/embeddedos-org/eNI) | \ud83e\uddec Neural Interface Adapter | ![C](https://img.shields.io/badge/-C-6366f1?style=flat-square&logo=c&logoColor=white) |
-| [**ebuild**](https://github.com/embeddedos-org/ebuild) | \ud83d\udd27 Next-Gen Embedded OS Build Tool | ![C](https://img.shields.io/badge/-C-6366f1?style=flat-square&logo=c&logoColor=white) |
-| [**eApps**](https://github.com/embeddedos-org/eApps) | \ud83c\udfea Unified Marketplace & App Store | ![Dart](https://img.shields.io/badge/-Dart-f43f5e?style=flat-square&logo=dart&logoColor=white) |
-| [**EoSim**](https://github.com/embeddedos-org/EoSim) | \ud83d\udda5\ufe0f Hardware Simulator (63+ Boards) | ![Python](https://img.shields.io/badge/-Python-f59e0b?style=flat-square&logo=python&logoColor=white) |
-| [**EoStudio**](https://github.com/embeddedos-org/EoStudio) | \ud83c\udfa8 Visual Design IDE \u2014 UI, 3D, CAD | ![Python](https://img.shields.io/badge/-Python-f59e0b?style=flat-square&logo=python&logoColor=white) |
-| [**eOffice**](https://github.com/embeddedos-org/eOffice) | \ud83d\udcc4 Full Office Suite for EoS | ![TS](https://img.shields.io/badge/-TypeScript-06b6d4?style=flat-square&logo=typescript&logoColor=white) |
-| [**eVera**](https://github.com/embeddedos-org/eVera) | \ud83e\udd16 Fully Autonomous AI Agent | ![Python](https://img.shields.io/badge/-Python-f59e0b?style=flat-square&logo=python&logoColor=white) |
-| [**eBrowser**](https://github.com/embeddedos-org/eBrowser) | \ud83c\udf10 Privacy-First Browser w/ Custom Engine | ![C](https://img.shields.io/badge/-C-6366f1?style=flat-square&logo=c&logoColor=white) |
-| [**eDB**](https://github.com/embeddedos-org/eDB) | \ud83d\uddc4\ufe0f Embedded Database w/ AI Queries | ![Python](https://img.shields.io/badge/-Python-f59e0b?style=flat-square&logo=python&logoColor=white) |
-| [**HW Designs**](https://github.com/embeddedos-org/eHardware-Designs-Products) | \ud83d\udd0c Hardware Designs & Board Datasheets | ![HW](https://img.shields.io/badge/-Hardware-10b981?style=flat-square&logoColor=white) |
+| [**EoS**](https://github.com/embeddedos-org/eos) | 🧬 Core Embedded Operating System | ![C](https://img.shields.io/badge/-C-6366f1?style=flat-square&logo=c&logoColor=white) |
+| [**eBoot**](https://github.com/embeddedos-org/eBoot) | 🔑 Universal Bootloader for Any Hardware | ![C](https://img.shields.io/badge/-C-6366f1?style=flat-square&logo=c&logoColor=white) |
+| [**eAI**](https://github.com/embeddedos-org/eAI) | 🧠 AI Layer (eBot) Integration for EoS | ![C](https://img.shields.io/badge/-C-6366f1?style=flat-square&logo=c&logoColor=white) |
+| [**eIPC**](https://github.com/embeddedos-org/eIPC) | 🔒 Secure Inter-Process Communication | ![Go](https://img.shields.io/badge/-Go-06b6d4?style=flat-square&logo=go&logoColor=white) |
+| [**eNI**](https://github.com/embeddedos-org/eNI) | 🧬 Neural Interface Adapter | ![C](https://img.shields.io/badge/-C-6366f1?style=flat-square&logo=c&logoColor=white) |
+| [**ebuild**](https://github.com/embeddedos-org/ebuild) | 🔧 Next-Gen Embedded OS Build Tool | ![C](https://img.shields.io/badge/-C-6366f1?style=flat-square&logo=c&logoColor=white) |
+| [**eApps**](https://github.com/embeddedos-org/eApps) | 🏪 Unified Marketplace & App Store | ![Dart](https://img.shields.io/badge/-Dart-f43f5e?style=flat-square&logo=dart&logoColor=white) |
+| [**EoSim**](https://github.com/embeddedos-org/EoSim) | 🖥️ Hardware Simulator (63+ Boards) | ![Python](https://img.shields.io/badge/-Python-f59e0b?style=flat-square&logo=python&logoColor=white) |
+| [**EoStudio**](https://github.com/embeddedos-org/EoStudio) | 🎨 Visual Design IDE — UI, 3D, CAD | ![Python](https://img.shields.io/badge/-Python-f59e0b?style=flat-square&logo=python&logoColor=white) |
+| [**eOffice**](https://github.com/embeddedos-org/eOffice) | 📄 Full Office Suite for EoS | ![TS](https://img.shields.io/badge/-TypeScript-06b6d4?style=flat-square&logo=typescript&logoColor=white) |
+| [**eVera**](https://github.com/embeddedos-org/eVera) | 🤖 Fully Autonomous AI Agent | ![Python](https://img.shields.io/badge/-Python-f59e0b?style=flat-square&logo=python&logoColor=white) |
+| [**eBrowser**](https://github.com/embeddedos-org/eBrowser) | 🌐 Privacy-First Browser w/ Custom Engine | ![C](https://img.shields.io/badge/-C-6366f1?style=flat-square&logo=c&logoColor=white) |
+| [**eDB**](https://github.com/embeddedos-org/eDB) | 🗄️ Embedded Database w/ AI Queries | ![Python](https://img.shields.io/badge/-Python-f59e0b?style=flat-square&logo=python&logoColor=white) |
+| [**HW Designs**](https://github.com/embeddedos-org/eHardware-Designs-Products) | 🔌 Hardware Designs & Board Datasheets | ![HW](https://img.shields.io/badge/-Hardware-10b981?style=flat-square&logoColor=white) |
 
 </div>
 
 ---
 
-## \ud83d\udee0\ufe0f Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### \ud83d\udcbb Languages
+### 💻 Languages
 ![C](https://img.shields.io/badge/C-6366f1?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-818cf8?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-f43f5e?style=for-the-badge&logo=rust&logoColor=white)
@@ -83,7 +83,7 @@ I founded [**embeddedos-org**](https://github.com/embeddedos-org) to build **EoS
 ![Shell](https://img.shields.io/badge/Shell-10b981?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-a855f7?style=for-the-badge&logoColor=white)
 
-### \u2699\ufe0f Embedded & Systems
+### ⚙️ Embedded & Systems
 ![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-f59e0b?style=for-the-badge&logo=linux&logoColor=black)
 ![Yocto](https://img.shields.io/badge/Yocto/OE-6366f1?style=for-the-badge&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-06b6d4?style=for-the-badge&logoColor=white)
@@ -93,7 +93,7 @@ I founded [**embeddedos-org**](https://github.com/embeddedos-org) to build **EoS
 ![RISC-V](https://img.shields.io/badge/RISC--V-10b981?style=for-the-badge&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/Vulkan_GPU-e11d48?style=for-the-badge&logo=vulkan&logoColor=white)
 
-### \ud83d\udce1 Connectivity & IoT
+### 📡 Connectivity & IoT
 ![Matter](https://img.shields.io/badge/Matter/CHIP-6366f1?style=for-the-badge&logoColor=white)
 ![Bluetooth](https://img.shields.io/badge/BLE-06b6d4?style=for-the-badge&logo=bluetooth&logoColor=white)
 ![WiFi](https://img.shields.io/badge/WiFi-f59e0b?style=for-the-badge&logoColor=white)
@@ -101,7 +101,7 @@ I founded [**embeddedos-org**](https://github.com/embeddedos-org) to build **EoS
 ![MQTT](https://img.shields.io/badge/MQTT-a855f7?style=for-the-badge&logo=mqtt&logoColor=white)
 ![CAN](https://img.shields.io/badge/CAN_Bus-10b981?style=for-the-badge&logoColor=white)
 
-### \ud83d\udee0\ufe0f Tools & Infrastructure
+### 🛠️ Tools & Infrastructure
 ![Git](https://img.shields.io/badge/Git-f43f5e?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-06b6d4?style=for-the-badge&logo=docker&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-6366f1?style=for-the-badge&logo=cmake&logoColor=white)
@@ -114,7 +114,7 @@ I founded [**embeddedos-org**](https://github.com/embeddedos-org) to build **EoS
 
 ---
 
-## \ud83d\udcca GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -143,7 +143,7 @@ I founded [**embeddedos-org**](https://github.com/embeddedos-org) to build **EoS
 
 ---
 
-## \ud83c\udfc6 Achievements
+## 🏆 Achievements
 
 <div align="center">
 
@@ -153,34 +153,34 @@ I founded [**embeddedos-org**](https://github.com/embeddedos-org) to build **EoS
 
 ---
 
-## \ud83c\udf31 Expertise Map
+## 🌱 Expertise Map
 
 ```
-\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510
-\u2502                                                                     \u2502
-\u2502   \u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557    \u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557    \u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557      \u2502
-\u2502   \u2551  Embedded OS  \u2551    \u2551   Firmware    \u2551    \u2551  BIOS / UEFI  \u2551      \u2502
-\u2502   \u2551  Development  \u2551\u2500\u2500\u2500\u25b6\u2551  & BSP/Yocto  \u2551\u2500\u2500\u2500\u25b6\u2551  Secure Boot  \u2551      \u2502
-\u2502   \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d    \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d    \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d      \u2502
-\u2502          \u2502                     \u2502                     \u2502              \u2502
-\u2502          \u25bc                     \u25bc                     \u25bc              \u2502
-\u2502   \u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557    \u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557    \u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557      \u2502
-\u2502   \u2551 Device Drivers\u2551    \u2551  RTOS / Real  \u2551    \u2551  OTA Updates  \u2551      \u2502
-\u2502   \u2551 & Kernel Mods \u2551    \u2551  Time Systems \u2551    \u2551  & Pipelines  \u2551      \u2502
-\u2502   \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d    \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d    \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d      \u2502
-\u2502          \u2502                     \u2502                     \u2502              \u2502
-\u2502          \u25bc                     \u25bc                     \u25bc              \u2502
-\u2502   \u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557    \u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557    \u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557      \u2502
-\u2502   \u2551  IoT / Matter \u2551    \u2551   Edge AI &   \u2551    \u2551   Hardware    \u2551      \u2502
-\u2502   \u2551  Connectivity \u2551    \u2551   GPU / TinyML\u2551    \u2551  Integration  \u2551      \u2502
-\u2502   \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d    \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d    \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d      \u2502
-\u2502                                                                     \u2502
-\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   ╔═══════════════╗    ╔═══════════════╗    ╔═══════════════╗      │
+│   ║  Embedded OS  ║    ║   Firmware    ║    ║  BIOS / UEFI  ║      │
+│   ║  Development  ║───▶║  & BSP/Yocto  ║───▶║  Secure Boot  ║      │
+│   ╚═══════════════╝    ╚═══════════════╝    ╚═══════════════╝      │
+│          │                     │                     │              │
+│          ▼                     ▼                     ▼              │
+│   ╔═══════════════╗    ╔═══════════════╗    ╔═══════════════╗      │
+│   ║ Device Drivers║    ║  RTOS / Real  ║    ║  OTA Updates  ║      │
+│   ║ & Kernel Mods ║    ║  Time Systems ║    ║  & Pipelines  ║      │
+│   ╚═══════════════╝    ╚═══════════════╝    ╚═══════════════╝      │
+│          │                     │                     │              │
+│          ▼                     ▼                     ▼              │
+│   ╔═══════════════╗    ╔═══════════════╗    ╔═══════════════╗      │
+│   ║  IoT / Matter ║    ║   Edge AI &   ║    ║   Hardware    ║      │
+│   ║  Connectivity ║    ║   GPU / TinyML║    ║  Integration  ║      │
+│   ╚═══════════════╝    ╚═══════════════╝    ╚═══════════════╝      │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## \ud83d\udceb Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
 
